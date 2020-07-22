@@ -1,2 +1,2 @@
 # Dog_Breed_Udacity_Date_Wrangle
-This is the Data Wrangle project as part of my work for the Data Analyst Nano Degre
+A very exhaustive analysis of Dog breed images with live data from twitter and extened Exploratory reports.
